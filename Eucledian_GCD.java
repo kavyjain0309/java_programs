@@ -10,5 +10,6 @@ public class Eucledian_GCD {
     public static void main(String[] args) {
         int n = Gcd(6,27);
         System.out.println(n);
+        System.out.println("This is the gcd");
     }
 }
